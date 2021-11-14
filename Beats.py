@@ -25,7 +25,7 @@ def main():
     # st.markdown('''---------------------------------------------------------------------------------------------------------''')
     # st.markdown('''---------------------------------------------------------------------------------------------------------''')
     
-    data=pd.read_excel("D:\\Projects\\Arvind sir\\RetailData_12-11-2021_02_49_PM.xlsx",sheet_name='RetailData')
+    data=pd.read_excel("./RetailData_12-11-2021_02_49_PM.xlsx",sheet_name='RetailData')
     zone = st.selectbox('Select Zone: ',data['Employee Zone'].unique())
 
     ASM_Name = st.selectbox('Select ASM Name: ',data['ASM Name'].unique())
@@ -96,7 +96,7 @@ def main():
     # # selectedday=option5.strftime('%A')
 
     googlesheeturl='https://docs.google.com/spreadsheets/d/1wcSrQEj2ttGpONbH8XnfYzxUp81WQw4bdn38J2r4Hoo/edit#gid=0'
-    creds=ServiceAccountCredentials.from_json_keyfile_name("D:\\Projects\\Arvind sir\\keys.json",scope)
+    creds=ServiceAccountCredentials.from_json_keyfile_name("./keys.json",scope)
     client=gspread.authorize(creds)
     sheet=client.open_by_url(googlesheeturl)
     worksheet=sheet.worksheet('Sheet1')
