@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "beats-data-arvind-sir",
+  "private_key_id": "6d195b99afd3e09f370416d3ffdbdb51f901cbaf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDJpaQ76gZteUYR\nZEt0QvdEBKWjTS7eStdPXSlSNcayKa2g2Vlbm7XB6gc9zKGu15Fsv8hMg2UiCDRs\nqbihHIqEOzmziMU11ynHVzuOVTPD/QGL91NaTL2dKNfB6r9fA/SpR+d+PRdOFdla\nRXd8GXWDBNeDGi1uH9F2GFedX5Bf0+8Bdughdl3BpnyFYea+aBMrOtBqAv9yeVcE\nmgKDaBhKd0Q4/ZJtqtRklcdPmOfgHZckfYO1w9pl9gXp2leQleAD2USKwOuQchU6\n2Avt52ZeiaFaWPnmcsT7kIv7tneO3tusbgjqP2T/9sdLWdEfgjMYPIhnbn/RUBdn\nmluMSAeNAgMBAAECggEAGuDWbG9nCJlICrIYu1g1x2jrKez0LgiXJ0AJbajiDFuG\nhlCScFCSwKn7lHQ9/6VCVYGW0a7DVe72tfPwOqF9oTSXyLjsDfTZNSCz5+au2L//\nwHK+NzolctkVMVxOF/yEqeUovpNRaO9797lsvNZT60aY8iO/dyoMlzZAGie5LIdB\noLQgVCEuYSox8LZfsiWSRjko+87eqA9kN0rrHYYkyWkaUcPbmMvl6MYCetjTSDQ6\nl6DBwZiZPpcwSGAZf5NwMH80d4LVsbM3tgQ2YLBhP5wamySZNePsVloPqwx3huJE\n6J8Kv7rbFtI2lS+k9NiQoa7cQjL9dBOryRLGDpAkzQKBgQD3+ma3IAR/mTKdFQZG\naJ3bCjYuuBgQVAMi+CTVCsEfUMboldEGUlgxrK89IJZ+8rMeV+00prrjCHQifHEA\nruW6OXMf4yGndoghBdFB8YkSt3pAQJ9oF9k8QlR5NwSWgU/fkpUUJSclxBXg0khP\naOmv+870NN+i1HwVLn1Rr1oFvwKBgQDQK44sXjC/Ih2a6pmawHtsxtzbxNpm8KWI\nZewiggq1WiUoGnDWU8eA3ur3mn3jYguRd+uSxcgC3etrgQPjf0iDD6AwHxSjC0OO\nmW2edfZunRYD9iR24Xzlcl92rRcpDiGOP7sQVUwh1y1a9/35u5d2dCc6jSILOqsL\nS6+v++i9swKBgFbaYyN8mVa/p5SRCpOajL9tQjD21abSZg7Xbr8XdzCqsCBCaOWX\n7b/oRbBZO5zXEJluHmy0gPyHt3VktIeSum+RM5tViDIJOACo8vPvzxy5Gp5qg+qH\nf9S1PrT96iN0wy8BPinCIYX+udL2k9EMY9z5izDJXBLB7XvVvprfmd4tAoGBAIjV\nyIvDkllhDILTaQq/MaJsCatwd3uo/bZuAM0iG/XffoMg9kD8Kyy720nMxKldvmrt\nn+0HkxTHWUN+N9cnyLtV3x8inwcZlVu74MGDmuxU167c8lUunVGZX8T7vDihcE83\n9zeiSfwInGiqkMjClaooaczkDpfBBcPUCXUtqmxfAoGAIthKCeaz3HL4a+j/dzFk\nImVeGHPn3S25AbKj2vkJTaFIYnvfL+1Gntuoi/4c1g36szXYpId218mgMRUY9b8Q\netl0+pYlYxsohLO5LAT4q2rfvcKzyeNuOOfpxbw/hmrJEXLet+tkM2t9TfZCqWSp\nDnzBHWaOYlDiCa+T3XTlo44=\n-----END PRIVATE KEY-----\n",
+  "client_email": "beats-data@beats-data-arvind-sir.iam.gserviceaccount.com",
+  "client_id": "118045456391095200299",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/beats-data%40beats-data-arvind-sir.iam.gserviceaccount.com"
+}
